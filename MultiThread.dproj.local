@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020-10-30 10:31:02.738,=C:\Users\hi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-10-30 10:31:18.370,E:\Practice\Multi Thread\MainForm.pas=C:\Users\hi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-10-30 10:31:18.370,E:\Practice\Multi Thread\MainForm.dfm=C:\Users\hi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020-10-30 10:31:24.954,E:\Practice\Multi Thread\MultiThread.dproj=C:\Users\hi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020-10-30 10:31:57.429,=E:\Practice\Multi Thread\Unit1.pas</Transaction>
+    <Transaction>2020-10-30 10:32:11.674,E:\Practice\Multi Thread\MyThread.pas=E:\Practice\Multi Thread\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
